@@ -1,0 +1,21 @@
+body{background: url(../images/un.jpg) no-repeat;background-size: cover;}
+
+#s{z-index: 1;position: absolute;margin:5% 25%;width:50%;height: 600px;color:white;}
+nav{margin:-10% 5%;}
+#unav li{list-style: none;float:left;margin:20px 20px;padding-bottom: 10px;cursor: pointer;
+width:90px;height:20px;text-align: center;border-radius: 6px;}
+#unav li:hover{background-color: aqua;color:white;}
+.border{background-color: aqua;}
+
+#imgg{height:130px;width:130px;border-radius: 50%;margin-left:40%;}
+
+#scontent{z-index: 1;position: absolute;margin-top:8%;margin-left: 25%;width:50%;height: 500px;color:white;overflow: hidden;}
+#spro,#sedu,#sexp,#scon{height: 500px;}
+#sedu p{text-indent: 0em;}
+
+h2{margin-left:15%;}
+.h2{margin-left:40%;}
+p{text-indent:2em;margin:10px 20px;}
+
+
+#sback{margin:5% 25%;width:50%;height: 600px;background-color: black;opacity: 0.6;border-radius: 13px;}
